@@ -53,6 +53,7 @@ Animation in Action
 ![Screenshot 2](./screenshots/2.png)
 ![Screenshot 3](./screenshots/3.png)
 ## 🌐 Live Demo
-(https://drive.google.com/file/d/1cU6_I1pNBqrFgNgh8gm2rawXjIzQGgj7/view?usp=sharing)
+video - (https://drive.google.com/file/d/1cU6_I1pNBqrFgNgh8gm2rawXjIzQGgj7/view?usp=sharing)
+live link - https://dev435435.github.io/Scroll-Driven-Hero-Section-Animation/
 
 
