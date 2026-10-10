@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome Itzfizz: scroll-driven car hero
 
 Next.js (React) + Tailwind CSS + GSAP ScrollTrigger. Inspired by https://paraschaturvedi.github.io/car-scroll-animation
@@ -19,3 +20,7 @@ npm run dev        # http://localhost:3000
 - **Scroll**: a `ScrollTrigger` timeline with `scrub: 1` ties the car's position, scale and rotation to scroll progress (the extra smoothing is the easing). The hero is pinned with CSS `position: sticky`, so no scroll listeners run.
 - **Performance**: only `transform` and `opacity` are animated; the lane markings are a single element translated in whole dash periods so the loop is seamless.
 - **Accessibility**: with `prefers-reduced-motion`, all animation is skipped and the static layout is shown.
+=======
+# Scroll-Driven-Hero-Section-Animation
+Scroll-Driven Hero Section Animation
+>>>>>>> 12c38441e1c96ac551a289a0413598e9128f1b0e
