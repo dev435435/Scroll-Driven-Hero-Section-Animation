@@ -1,26 +1,60 @@
+# Scroll-Driven Hero Section Animation 🚗
 
-# Welcome Itzfizz: scroll-driven car hero
+An interactive hero section featuring a car that moves horizontally based on the user's scroll position. Built using Next.js, React, Tailwind CSS, and GSAP ScrollTrigger to create a smooth and engaging scrolling experience.
 
-Next.js (React) + Tailwind CSS + GSAP ScrollTrigger.
+## 🚀 Features
 
-## Run locally
-```bash
-npm install
-npm run dev        # http://localhost:3000
-```
+- Scroll-driven horizontal car animation
+- Smooth animations using GSAP and ScrollTrigger
+- Responsive hero section design
+- Scroll-linked animation progress
+- Dynamic metrics reveal during scrolling
 
-## Deploy to GitHub Pages
-1. Create a GitHub repo and push this project to `main`.
-2. Repo **Settings → Pages → Source: GitHub Actions**.
-3. The included workflow builds a static export and publishes it at
-   `https://<username>.github.io/<repo>/`.
+## 🛠️ Tech Stack
 
-## How the motion works
-- **Intro** (`components/Hero.jsx`): one GSAP timeline staggers the headline letters, drops the car in, then reveals the four stats one by one with a count-up.
-- **Scroll**: a `ScrollTrigger` timeline with `scrub: 1` ties the car's position, scale and rotation to scroll progress (the extra smoothing is the easing). The hero is pinned with CSS `position: sticky`, so no scroll listeners run.
-- **Performance**: only `transform` and `opacity` are animated; the lane markings are a single element translated in whole dash periods so the loop is seamless.
-- **Accessibility**: with `prefers-reduced-motion`, all animation is skipped and the static layout is shown.
-=======
-# Scroll-Driven-Hero-Section-Animation
-Scroll-Driven Hero Section Animation
->>>>>>> 12c38441e1c96ac551a289a0413598e9128f1b0e
+- **Next.js** – React framework
+- **React.js** – UI development
+- **Tailwind CSS** – Styling and responsive design
+- **GSAP** – Animation library
+- **ScrollTrigger** – Scroll-based animation control
+
+## ⚙️ Installation and Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd YOUR_PROJECT_FOLDER
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open `http://localhost:3000` in your browser.
+
+## 📸 Screenshots
+Scroll-Driven Car Animation
+(./screenshots/1.png)
+Animation in Action
+(./screenshots/2.png)
+## 🌐 Live Demo
+
+Add your deployed website URL here after hosting the project.
+
+## 👨‍💻 Author
+
+Developed as a frontend project to explore scroll-based animations and interactive web experiences.
