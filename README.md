@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Welcome Itzfizz: scroll-driven car hero
 
-Next.js (React) + Tailwind CSS + GSAP ScrollTrigger. Inspired by https://paraschaturvedi.github.io/car-scroll-animation
+Next.js (React) + Tailwind CSS + GSAP ScrollTrigger.
 
 ## Run locally
 ```bash
