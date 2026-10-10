@@ -51,10 +51,8 @@ Scroll-Driven Car Animation
 (./screenshots/1.png)
 Animation in Action
 (./screenshots/2.png)
+(./screenshots/3.png)
 ## 🌐 Live Demo
+(https://drive.google.com/file/d/1cU6_I1pNBqrFgNgh8gm2rawXjIzQGgj7/view?usp=sharing)
 
-Add your deployed website URL here after hosting the project.
 
-## 👨‍💻 Author
-
-Developed as a frontend project to explore scroll-based animations and interactive web experiences.
