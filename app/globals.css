@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { background: #dde0e2; }
+body { @apply font-body text-ink antialiased; }
+
+/* Hint the browser that these are animated with transforms only */
+[data-car], [data-car-intro], [data-lane], [data-copy] { will-change: transform; }
+
+:focus-visible { outline: 3px solid #0e6b78; outline-offset: 3px; }
