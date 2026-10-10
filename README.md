@@ -48,10 +48,10 @@ An interactive hero section featuring a car that moves horizontally based on the
 
 ## 📸 Screenshots
 Scroll-Driven Car Animation
-(./screenshots/1.png)
+![Screenshot 1](./screenshots/1.png)
 Animation in Action
-(./screenshots/2.png)
-(./screenshots/3.png)
+![Screenshot 2](./screenshots/2.png)
+![Screenshot 3](./screenshots/3.png)
 ## 🌐 Live Demo
 (https://drive.google.com/file/d/1cU6_I1pNBqrFgNgh8gm2rawXjIzQGgj7/view?usp=sharing)
 
